@@ -1,0 +1,7 @@
+{
+  "name": "TerraChat AI",
+  "description": "An interactive map-based chatbot powered by Gemini. Features real-time Google Maps and Search grounding for location-aware responses, alongside a powerful reasoning mode.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
